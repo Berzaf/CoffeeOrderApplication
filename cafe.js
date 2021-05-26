@@ -3,7 +3,7 @@
 $(document).ready(function ()
 {
     var total = 0;
-
+    
     // add hover handler and click handler to each image in table
     $("ul img").each(function ()
     {
